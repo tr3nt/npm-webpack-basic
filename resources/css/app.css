@@ -1,0 +1,8 @@
+
+/*** General ***/
+body {
+  background-color: #c3e6cb;
+}
+
+[v-cloak] > * { display:none }
+[v-cloak]::before { content: "loading…" }
