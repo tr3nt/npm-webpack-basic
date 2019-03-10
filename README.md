@@ -10,4 +10,4 @@ Use:
 5. Add your stylesheets location on 'webpack.mix.js'
 6. Add your javascript on 'resources/js/functions.js'
 7. Run "npm run dev" or "npm run prod" on console
-8. You'll get full JS and CSS files on 'public' folder
+8. You'll get single JS and CSS files with all code on 'public' folder
