@@ -1,4 +1,4 @@
-require('./bootstrap');
+import './functions';
 
 /**
  * Vue load
